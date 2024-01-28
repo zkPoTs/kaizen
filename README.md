@@ -1,7 +1,9 @@
 # Kaizen
 To build zkPoT, first decompress 3rd.zip. Then make ./build.sh executable by using:
 > chmod +x build.sh
+
 Then run it by calling :
+
 > ./build.sh
 
 For zkPoT run one of the scripts given by running:
